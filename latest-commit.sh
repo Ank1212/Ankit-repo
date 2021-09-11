@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
 
-git log -n devfix
-git rev-parse dev
+git log -n 1 devfix
+
